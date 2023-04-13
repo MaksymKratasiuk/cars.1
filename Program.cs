@@ -27,6 +27,9 @@
             }
 
             Console.ReadLine();
+            Console.WriteLine("HEllo");
+            Console.WriteLine("HEllo");
+
         }
     }
 }
